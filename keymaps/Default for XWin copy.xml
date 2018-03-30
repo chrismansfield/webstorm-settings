@@ -1,0 +1,10 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>
