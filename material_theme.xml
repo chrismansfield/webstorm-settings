@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="darkTitleBar" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="userId" value="18dc4bc1:16a0821df8f:-8000" />
-    <option name="version" value="3.9.0.3" />
+    <option name="accentColor" value="00e950" />
+    <option name="userId" value="-4ee08258:1690cc84e33:-8000" />
+    <option name="version" value="3.8.0.2" />
   </component>
 </application>
