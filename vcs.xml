@@ -14,6 +14,10 @@
           <option name="url" value="http://git.toptal.com" />
           <option name="userName" value="christoffer@ermahgerd.net" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://ermahgerd.visualstudio.com" />
+          <option name="userName" value="christoffer@ermahgerd.net" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
