@@ -18,6 +18,10 @@
           <option name="url" value="http://ermahgerd.visualstudio.com" />
           <option name="userName" value="christoffer@ermahgerd.net" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="ermahgerd" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
