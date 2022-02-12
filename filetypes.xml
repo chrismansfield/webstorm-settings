@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="setup-nvm,yml" type="AUTO_DETECTED" />
       <mapping pattern="actions/setup-nvm.yml" type="AUTO_DETECTED" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
