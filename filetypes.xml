@@ -4,6 +4,7 @@
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="setup-nvm,yml" type="AUTO_DETECTED" />
       <mapping pattern="actions/setup-nvm.yml" type="AUTO_DETECTED" />
+      <mapping pattern=".lintstagedrc" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
