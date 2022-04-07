@@ -6,8 +6,9 @@
       <mapping pattern="actions/setup-nvm.yml" type="AUTO_DETECTED" />
       <mapping pattern="pre-push" type="AUTO_DETECTED" />
       <mapping pattern=".lintstagedrc" type="JSON" />
-      <mapping pattern=".deployment" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".deployment" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
