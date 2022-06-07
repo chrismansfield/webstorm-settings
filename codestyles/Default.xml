@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <Markdown>
+    <option name="KEEP_LINE_BREAKS_INSIDE_TEXT_BLOCKS" value="false" />
+  </Markdown>
   <TypeScriptCodeStyleSettings version="0">
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="USE_PATH_MAPPING" value="DIFFERENT_PATHS" />
